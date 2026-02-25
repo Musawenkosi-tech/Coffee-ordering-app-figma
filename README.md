@@ -4,6 +4,14 @@ Interactive Figma prototype for a mobile coffee ordering app. Features include u
 
 **Live Demo**: [View Prototype](https://www.figma.com/proto/D2VRRUlY2KeYY81bWnPb1s/The-Expresso-Room?node-id=1-2&starting-point-node-id=1%3A2&t=ENnmmfhzOdJUCK0I-1)
 
+## 📸 Screenshots
+[Login Screen](Screenshot2025-10-23140235.png)
+[Coffee Menu](Screenshot2025-10-23140338.png)
+[Order Form](Screenshot2025-10-23140444.png)
+[Checkout](Screenshot2025-10-23140529.png)
+[Order Confirmation](Screenshot2025-10-23140705.png)
+
+
 **Tech Stack**: Figma (frames, auto-layout, prototyping, connectors)
 
 **Key Learnings**:
